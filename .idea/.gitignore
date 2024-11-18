@@ -1,0 +1,35 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+/ALGOS/
+/ANOVA/
+/Cybersecurity/
+/DATA/
+/Data Mining Methods/
+/Data Mining Project/
+/Database Design/
+/Deep Learning/cancer/test/
+/Deep Learning/cancer/train/
+/DTA 5011/
+/DTSA 5001 Probabilty Theory/
+/DTSA 5002 Statistical Inference/
+/DTSA 5003 Hypothesis Testing/
+/DTSA 5011 Modern Regression Analysis in R/
+/DTSA 5301 Data Science as a Field/
+/DTSA 5504 Data Mining Pipeline/
+/DTSA 5704 Mangaging and Describing Data/
+/Files/
+/GLM/
+/imgs/
+/Robots1/
+/Stability/
+/Supervised Learning/
+/Supervised Text/
+/SW Arch 1/
+/Unsupervised Text/
+/misc/
